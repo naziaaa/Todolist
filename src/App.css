@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  color: #070c0ada;
+  background-color: rgb(176, 201, 223);
+  font: <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">;
+  font-family: 'Open Sans', sans-serif;
+}
+.App.p{
+  color: black;
+}
+
+
